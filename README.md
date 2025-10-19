@@ -15,21 +15,11 @@ coverY: 0
 
 <p align="center"></p>
 
-<details>
-
-<summary><a href="broken-reference"><mark style="color:green;"><strong>TryHackMe Write-ups</strong></mark></a></summary>
-
-
-
-</details>
+<h2 align="center"><a href="broken-reference"><mark style="color:$success;">TryHackMe Write-ups</mark></a></h2>
 
 <p align="center"></p>
 
-<p align="center"></p>
-
-<p align="center"></p>
-
-<p align="center"></p>
+<h2 align="center"><a href="broken-reference"><mark style="color:$success;">ROOT-ME</mark></a></h2>
 
 <p align="center"></p>
 
