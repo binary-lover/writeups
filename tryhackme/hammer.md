@@ -133,8 +133,7 @@ but unfortunately cat, or other cmd not working but we got some files in curr di
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Now, we had another folder _http://10.10.192.218:1337/vendor/firebase/php-jwt/ that means the_ key may be for the jwt token secret key\
-also we can seee the jwt toekn in the page source\
-
+also we can seee the jwt toekn in the page source<br>
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -145,8 +144,7 @@ copy the jwt token and try to manipulate the token in jwt.io
 I changed few thing:\
 1\. make role 'admin'\
 2\. make the kid path to /html/188ade1.key which is the key that we saw\
-3\. add secret key that we got \
-
+3\. add secret key that we got <br>
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
